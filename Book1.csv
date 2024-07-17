@@ -1,0 +1,21 @@
+Id,Names,State,Type,BestTimeToVisit,Popularity,Region
+1,Taj Mahal,Uttar Pradesh,Historical,Nov-Feb,8.691906259,North
+2,Jaipur City,Rajasthan,City,Oct-Mar,8.605031858,North
+3,Kerela,Kerela,Nature,Sep-Mar,9.225372008,South
+4,Ladakh,Jammu Kashmir,Adventure,Apr-Jun,7.977385536,South
+5,Goa,Maharashtra,Beaches,Apr-Jun,8.399821878,West
+6,Gujarat,Maharashtra,Beaches,Nov-Feb,7.648949544,West
+7,Bihar,Bihar,Temple,Sep-Mar,8.691906259,East
+8,Agra Fort,Uttar Pradesh,Historical,Sep-Mar,8.605031858,North
+9,Jhansi Fort,Uttar Pradesh,Historical,Nov-Feb ,9.225372008,North
+10,Jog Falls,Karnataka,WaterFall,Jun-Sep,7.977385536,South
+11,Ayodhya,Uttar Pradesh,Temple,Nov-Feb,8.399821878,North
+12,Elephanta Caves,Maharashtra,Historical,Sep-Mar,7.648949544,West
+13,Sanjay Gandhi National Park,Maharashtra,Park,Oct-Mar,9.145068342,West
+14,Akshardham,Delhi ,Temple,Sep-Mar,8.691906259,North
+15,Lotus Temple,Delhi ,Temple,Nov-Feb,8.605031858,North
+16,Jaisalmer Fort,Rajasthan,Historical,Apr-Jun,9.225372008,North
+17,Jag Mandir,Rajasthan,Temple,Oct-Mar,7.977385536,North
+18,Sree Krishna Swamy Temple,Kerela,Temple,Oct-Mar,8.399821878,South
+19,Thusharagiri WaterFalls,Kerela,WaterFall,Apr-Jun,7.648949544,South
+20,Mullaperiyar ,Kerela,Adventure,Nov-Feb,9.145068342,South
